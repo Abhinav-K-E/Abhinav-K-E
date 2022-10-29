@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://abhinavke.dev/](abhinavke.dev)
+- 👨‍💻 All of my projects are available at [https://abhinavke.dev/](https://abhinavke.dev/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
