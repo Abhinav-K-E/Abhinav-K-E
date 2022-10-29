@@ -1,9 +1,14 @@
-- 👋 Hi, I’m @Abhinav-K-E
-- 👀 I’m interested in Web developing
-- 🌱 I’m currently learning Front end dev
-- 📫 How to reach me ...
+![MasterHead](https://jayamwebsolutions.com/img/website.gif)
+<h1 align="center">Hi 👋, I'm Abhinav</h1>
+<h3 align="center">A passionate frontend developer</h3>
 
-<!---
-Abhinav-K-E/Abhinav-K-E is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 I’m currently learning **JavaScript**
+
+- 👨‍💻 All of my projects are available at [abhinavke.dev](abhinavke.dev)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img 
